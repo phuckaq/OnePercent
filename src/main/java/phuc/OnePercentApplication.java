@@ -1,13 +1,13 @@
-package phuc.becoming;
+package phuc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BecomingApplication {
+public class OnePercentApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BecomingApplication.class, args);
+        SpringApplication.run(OnePercentApplication.class, args);
     }
 
 }

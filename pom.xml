@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>phuc</groupId>
-    <artifactId>becoming</artifactId>
+    <artifactId>onepercent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>becoming</name>
-    <description>becoming</description>
+    <name>one-percent</name>
+    <description>one-percent</description>
     <properties>
         <java.version>11</java.version>
     </properties>
@@ -40,11 +40,6 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <optional>true</optional>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
         </dependency>
     </dependencies>
 
