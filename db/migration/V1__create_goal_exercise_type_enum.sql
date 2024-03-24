@@ -1,0 +1,5 @@
+CREATE SCHEMA IF NOT EXISTS one;
+
+CREATE TYPE one.exercise_type AS ENUM ('PUSH_UP', 'HAND_WEIGHTS', 'SQUAT', 'PLANK', 'SIT_UP');
+
+CREATE TYPE one.habit_type AS ENUM ('WORKOUT');
